@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm arhis222</h1>
+![My GIF](https://github.com/GITHUB_USER/arhis222/raw/main/hello-there-hi-there.gif)
 <h3 align="center">Game Developper</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arhis222&label=Profile%20views&color=0e75b6&style=flat" alt="arhis222" /> </p>
