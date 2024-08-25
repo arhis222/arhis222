@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=45&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+There!+👋;+I'm+arhiss222!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=45&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+There!+👋;+I'm+arhis222!;" />
 </h1>
 
 <img src="https://github.com/arhis222/arhis222/raw/main/hello-there-hi-there.gif" width="900" height="350"/>
