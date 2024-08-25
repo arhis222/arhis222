@@ -21,7 +21,7 @@
 
  <hr/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">⚒️ Skill sets ⚒️</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=cs,cpp,javascript,python,ocaml,unity,react,html,css,r,typescript,sqlite" />
@@ -44,14 +44,12 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <href="https://git.io/streak-stats"><img width=413 src="https://github-readme-streak-stats-lake-phi.vercel.app?user=arhis222&theme=tokyonight" alt="GitHub Streak" /></a>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=arhis222&show_icons=true&theme=tokyonight" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arhis222&layout=compact&theme=tokyonight" alt="top langs" />
+  <href="https://git.io/streak-stats"><img width=500 src="https://github-readme-streak-stats-lake-phi.vercel.app?user=arhis222&hide_border=true&theme=cobalt" alt="GitHub Streak" /></a>
+    <br>
+  <img width=450 src="https://github-readme-stats.vercel.app/api?username=arhis222&show_icons=true&hide_border=true&theme=cobalt&bg_color=0D1117" alt="readme stats" />
+  <img width=280 src="https://github-readme-stats.vercel.app/api/top-langs/?username=arhis222&layout=compact&hide_border=true&theme=cobalt&bg_color=0D1117" alt="top langs" />
 </div>
-
-
-
+    
 <br/><br/>
 
 <hr/>
