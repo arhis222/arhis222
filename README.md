@@ -1,5 +1,5 @@
 <h1 align="center">Hello There 👋, I'm arhis222</h1>
-<img src="https://github.com/arhis222/arhis222/raw/main/hello-there-hi-there.gif" width="1000" height="500"/>
+<img src="https://github.com/arhis222/arhis222/raw/main/hello-there-hi-there.gif" width="700" height="350"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arhis222&label=Profile%20views&color=0e75b6&style=flat" alt="arhis222" /> </p>
 
