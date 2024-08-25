@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/arhis222/arhis222/blob/output/github-contribution-grid-snake.gif)
