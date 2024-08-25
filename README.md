@@ -1,13 +1,11 @@
 <p align="right">
-  <img src="https://img.shields.io/badge/Total%20Profile%20Views-%E2%80%93%20-%238a2be2?style=for-the-badge&logo=github&logoColor=white&labelColor=4b0082" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=arhis222&label=Profile%20views&color=8a2be2&style=flat" alt="Profile Views" />
 </p>
 
-
-
-
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+There!+👋;+I'm+arhiss222!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=8a2be2&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+There!+👋;+I'm+arhiss222!;" />
 </h1>
+
 <img src="https://github.com/arhis222/arhis222/raw/main/hello-there-hi-there.gif" width="900" height="350"/>
 
 
