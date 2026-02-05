@@ -47,10 +47,6 @@
     <br>
   <img width=450 src="https://github-readme-stats.vercel.app/api?username=arhis222&show_icons=true&hide_border=true&theme=cobalt&bg_color=0D1117" alt="readme stats" />
   <img width=280 src="https://github-readme-stats.vercel.app/api/top-langs/?username=arhis222&layout=compact&hide_border=true&theme=cobalt&bg_color=0D1117" alt="top langs" />
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats-1nehsvzjt-arhis222s-projects.vercel.app/?user=arhis222&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  </a>
-
 </div>
     
 <br/><br/>
